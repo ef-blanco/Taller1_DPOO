@@ -1,0 +1,13 @@
+tipo:Corriente:15500:86.7741935483871
+tipo:Diesel:9650:35.0
+tipo:Plus:19950:25.0
+tipo:Ultra:23500:20.0
+surtidor:Joe:Corriente:0.0:Diesel:0.0:Plus:0.0:Ultra:0.0
+surtidor:Thomas:Corriente:0.0:Diesel:0.0:Plus:0.0:Ultra:0.0
+surtidor:Gordon:Corriente:3.225806451612903:Diesel:0.0:Plus:0.0:Ultra:0.0
+surtidor:Thomas:Corriente:0.0:Diesel:0.0:Plus:10.0:Ultra:0.0
+empleado:Gordon:50000
+empleado:Thomas:199500
+empleado:Joe:0
+empleado:Susan:0
+empleado:Mario:0
